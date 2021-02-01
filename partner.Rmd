@@ -1,0 +1,16 @@
+---
+title: "Carter Meseck - Carter Meseck"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+The owner added the hw1 html and rmd file in the most recent commit - commit id: 870da99c657b24b332d9968ffefe738e838d0a14
+
+I couldn't knit my partners .rmd because they had an image that I did not have.
+
+My tip would be to make github more user friendly because it seems kind of confusing at the moment, but that could just be me.
